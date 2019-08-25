@@ -1,6 +1,4 @@
 
-A webpage for the Algebra course @ SYSU, Fall 2019.
-
 ## News
 
 
