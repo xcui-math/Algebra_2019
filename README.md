@@ -51,4 +51,4 @@ Cheating in any form will be strictly prohibited. Anyone found cheating will get
 
 #### Email Policy
 
-I encourage you to ask questions about the syllabus, covered material, and homeworks during lectures. However, if office hours conflict with your schedule, please use email to set up a one-on-one meeting with me. Use the subject line "DiscreteMath Meeting Request" for your message, and please include a brief description of the reason for the meeting.
+I encourage you to ask questions about the syllabus, covered material, and homeworks during and after lectures. However, if those conflict with your schedule, please use email to set up a one-on-one meeting with me. Use the subject line "Meeting Request" for your message, and please include a brief description of the reason for the meeting.
