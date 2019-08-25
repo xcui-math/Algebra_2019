@@ -36,6 +36,13 @@ Homeworks will be posted on this webpage. Students must make arrangements in adv
 
 You are encouraged to discuss about homeowork problems with others, but each one of you must write your own answers (using your own words). Copy and plagiarism will not be tolerated (see Academic Honesty policy).
 
+Your homework will be graded out of four scales:
+
++ A: finish 100% of the problems, or at least tried with good efforts; well-written; show your descent understanding on the subject. 
++ B: finish 75% or more of the problems, or at least tried with reasonable efforts; writing is easily recognisable; show basic understanding on the subject. 
++ C: finish 50% of the problems, or at least tried with reasonable efforts; or writing is very hard to recognise, or the understanding is doubtful, with some very visible mistakes. 
++ D: finish less than 50% of the problems, or with not enough efforts; or lots of mistakes; which basically means the assignment is not acceptable. 
+
 ### Learning Cooperatively
 
 With the exception of exams, we encourage you to discuss all of the course activities with your classmates as you are working on them. You will definitely learn more in this class if you work with others. Please ask questions, answer questions, and share ideas liberally.
