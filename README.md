@@ -38,10 +38,10 @@ You are encouraged to discuss about homeowork problems with others, but each one
 
 Your homework will be graded out of four scales:
 
-+ A: finish 100% of the problems, or at least tried with good efforts; well-written; show your descent understanding on the subject. 
-+ B: finish 75% or more of the problems, or at least tried with reasonable efforts; writing is easily recognisable; show basic understanding on the subject. 
-+ C: finish 50% of the problems, or at least tried with reasonable efforts; or writing is very hard to recognise, or the understanding is doubtful, with some very visible mistakes. 
-+ D: finish less than 50% of the problems, or with not enough efforts; or lots of mistakes; which basically means the assignment is not acceptable. 
++ A: If you solved 100% of the problems, or at least tried with good efforts; the homewokr is well-written; you showed your descent understanding on the subject. 
++ B: If you solved 75% or more of the problems, or at least tried with reasonable efforts; the writing is easily recognisable; you showed basic understanding on the subject. 
++ C: If you solved 50% of the problems, or at least tried with reasonable efforts; or the writing is very hard to recognise, or the understanding is doubtful, with some very visible mistakes. 
++ D: If you solved less than 50% of the problems, or with not enough efforts; or the homework has lots of mistakes; which basically means the assignment is not acceptable. 
 
 ### Learning Cooperatively
 
