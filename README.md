@@ -13,8 +13,6 @@ xiaoyicui@outlook.com
 
 海滨红楼8号楼105
 
-Office Hour: Friday 13:00 - 14:30pm in my office, and before/after lectures in the classroom.
-
 ### Objectives
 
 本课程的教学内容是抽象代数(通常又称为“近世代数”)，是现代数学的重要基础之一，并且各个科技领域有广泛的应用。本学期内容包括：群论（含群映射，群在集合上的作用，西罗定理，有限群的分类等），环论（含理想，素理想，极大理想，欧几里得整环，主理想整环，唯一因子分解整环等）和域论（含域扩张，域扩张的性质，域扩张的自同构群，Galois理论等）的基本知识。通过本课程的学习，学生应该牢固掌握群论、环论、域论的基本理论与主要结果，一般掌握这些代数对象的基本研究方法以及各个定理的灵活运用，从而提高抽象思维和推理的能力，为后续的学习和研究打下坚实基础。
@@ -27,10 +25,7 @@ Office Hour: Friday 13:00 - 14:30pm in my office, and before/after lectures in t
 
 ### Textbooks
 
-The official textbook is 
-
-Algebra (Second Edition), Michael Artin, 机械工业出版社，2017年。
-
+The official textbook is Algebra (Second Edition), Michael Artin, 机械工业出版社，2017年。
 
 ### Exams & Scores
 
