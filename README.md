@@ -1,6 +1,9 @@
 
 ## News
 
+第一次作业：[Problem Set 1](Problem Set 1.pdf)，9月30日上课时交。请写在A4纸上。建议大家合理安排作业时间，一定不要等到最后再开始。
+
+关于数学题目的解答，可以参考 Evan Chen的[proof writing](proof writing.pdf)。这篇主要是为高中生参加IMO准备的，但是证明写法的规范性适用于从数学学习到科研的各种情况。
 
 ## Instructor
 
