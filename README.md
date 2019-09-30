@@ -1,6 +1,8 @@
 
 ## News
 
+第一次作业答案：[page 1](1-1.JPG) [page 2](1-2.JPG) [page 3](1-3.JPG) [page 4](1-4.JPG) [page 5](1-5.JPG).答案中的某些简单步骤会略过，建议大家自行补齐。
+
 随堂测验1 [答案](Quiz 1 sol.pdf).
 
 第一次作业：[Problem Set 1](Problem Set 1.pdf) ，9月30日上课时交。请写在A4纸上。建议大家合理安排作业时间，一定不要等到最后再开始。
