@@ -1,6 +1,8 @@
 
 ## News
 
+第二次作业：[Problem Set 2](Problem Set 2.pdf) ，10月23日上课时交。
+
 第一次作业答案：[page 1](1-1.JPG) [page 2](1-2.JPG) [page 3](1-3.JPG) [page 4](1-4.JPG) [page 5](1-5.JPG).答案中的某些简单步骤会略过，建议大家自行补齐。 
 
 主要问题:
@@ -56,7 +58,7 @@ You are encouraged to discuss about homeowork problems with others, but each one
 
 Your homework will be graded out of four scales:
 
-+ A: If you solved 100% of the problems, or at least tried with good efforts; the homewokr is well-written; you showed your descent understanding on the subject. 
++ A: If you solved 100% of the problems, or at least tried with good efforts; the homework is well-written; you showed your descent understanding on the subject. 
 + B: If you solved 75% or more of the problems, or at least tried with reasonable efforts; the writing is easily recognisable; you showed basic understanding on the subject. 
 + C: If you solved 50% of the problems, or at least tried with reasonable efforts; or the writing is very hard to recognise, or the understanding is doubtful, with some very visible mistakes. 
 + D: If you solved less than 50% of the problems, or with not enough efforts; or the homework has lots of mistakes; which basically means the assignment is not acceptable. 
