@@ -1,6 +1,8 @@
 
 ## News
 
+第二次作业答案：[page 1](2-1.JPG) [page 2](2-2.JPG) [page 3](2-3.JPG) [page 4](2-4.JPG) [page 5](2-5.JPG) [page 6](2-6.JPG).
+
 第二次作业：[Problem Set 2](Problem Set 2.pdf) ，10月23日上课时交。
 
 第一次作业答案：[page 1](1-1.JPG) [page 2](1-2.JPG) [page 3](1-3.JPG) [page 4](1-4.JPG) [page 5](1-5.JPG).答案中的某些简单步骤会略过，建议大家自行补齐。 
