@@ -1,6 +1,8 @@
 
 ## News
 
+2019-11-1: 期中考试 [Midterm Quiz](Midterm Quiz.pdf)已发布，11月4日上课前交。不接受任何理由的晚交，如果时间上有困难，可以联系老师提前交卷。
+
 第二次作业答案：[page 1](2-1.JPG) [page 2](2-2.JPG) [page 3](2-3.JPG) [page 4](2-4.JPG) [page 5](2-5.JPG) [page 6](2-6.JPG).
 
 第二次作业：[Problem Set 2](Problem Set 2.pdf) ，10月23日上课时交。
