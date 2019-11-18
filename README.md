@@ -1,6 +1,16 @@
 
 ## News
 
+期中考试第一题给分要点：
++ correctly write down Sylow eqns 2pts; 
++ solutions 1pt; 
++ Case 1: Product group C_3 × C_673 1pt; 
++ Case 2: only one normal subgroup, C_673 1pt; 
++ describe case 2 using generators x^673=1 and y^3=1 1pt; 
++ solve the commutation relation correctly： case 2a, xy=yx^255, and case 2b, xy=yx^417 2pts; 
++ show that the two solutions are isomorphic 1pt; 
++ Conclude 1pt.
+
 第三次作业：[Problem Set 3](Problem Set 3.pdf) ，12月2日上课时交。
 
 第二次作业问题总结：
