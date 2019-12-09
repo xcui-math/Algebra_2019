@@ -15,7 +15,7 @@
 + show that the two solutions are isomorphic 1pt; 
 + Conclude 1pt.
 
-第三次作业：[Problem Set 3](Problem Set 3.pdf) ，12月2日上课时交。
+第三次作业：[Problem Set 3](Problem Set 3.pdf) ，12月9日上课时交。
 
 第二次作业问题总结：
 + 第三题：没有列出所有的真子群/没有指出子群的共轭类。
