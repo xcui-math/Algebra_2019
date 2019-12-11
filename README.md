@@ -4,7 +4,7 @@
 第四次作业：[Problem Set 4](Problem Set 4.pdf) ，12月30日上课时交。注意：带星号的题目可以不交————但是建议大家在有时间的时候做一下并参看答案。
 
 
-第三次作业答案：[page 1](3-1.JPG) [page 2](3-2.JPG) [page 3](3-3.JPG) [page 4](3-4.JPG) [page 5](3-5.JPG) [page 6](3-6.JPG) [page 7](3-7.JPG).
+第三次作业答案：[page 1](3-1.JPG) [page 2](3-2.JPG) [page 3](3-3.JPG) [page 4](3-4.JPG) [page 5](3-5.JPG) [page 6](3-6.JPG) [page 7](3-7.JPG)，以及15 2）的comment的更正[errata](3-err.JPG).
 
 第十二，十三章课上涉及的章节：12.1, 12.2, 12.3, 13.1, 13.4, 13.5。
 
