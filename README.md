@@ -5,7 +5,7 @@
 
 第十六章课上涉及的章节： 16.3, 16.4, 16.5.2, 16.5.4, 16.6.4, 16.7.1, 16.7.4。
 
-第四次作业答案：[page 1](4-1.jpg) [page 2](4-2.JPG) [page 3](4-3.JPG) [page 4](4-4.JPG) [page 5](4-5.JPG) [page 6](4-6.JPG)。
+第四次作业答案：[page 1](4-1.jpg) [page 2](4-2.jpg) [page 3](4-3.jpg) [page 4](4-4.jpg) [page 5](4-5.jpg) [page 6](4-6.jpg)。
 
 随堂测验2 [答案](Quiz 2 sol.pdf).
 
